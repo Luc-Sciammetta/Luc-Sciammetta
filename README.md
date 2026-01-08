@@ -8,8 +8,8 @@ I'm a Computer Science student at Northeastern University, passionate about AI, 
 - Calendar Application: Collaboratively developed a Java-based calendar application using the MVC architecture and various object-oriented design patterns _(code upon request)_.
 
 ## 📫 Contact Information
-- GitHub: [click here]github.com/Luc-Sciammetta
-- LinkedIn: [click here]linkedin.com/in/luc-sciammetta
+- GitHub: [github.com/Luc-Sciammetta](github.com/Luc-Sciammetta)
+- LinkedIn: [linkedin.com/in/luc-sciammetta](linkedin.com/in/luc-sciammetta)
 - Email: sciammetta.l@northeastern.edu
 
 <!--
