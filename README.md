@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Luc 👋
 
 I'm a Computer Science student at Northeastern University, passionate about AI, machine learning, and aerospace.
 
