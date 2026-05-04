@@ -3,7 +3,7 @@
 I'm a Computer Science student at Northeastern University, passionate about AI, machine learning, and aerospace.
 
 ## 📁 Notable Projects
-- __Lottery Ticket Application:__ Developing an automated lottery ticket checker using computer vision and deep learning, by using a PyTorch-based CNN to classify lottery games (EuroMillions, Powerball, MegaMillions) (and in the future some form of text recognition), while integrating historical lottery data via the Lottery Data API for ticket numbers lookup.
+- __Lottery Ticket Application (Python and iOS):__ Developed an automated lottery ticket checker using computer vision and deep learning, training a PyTorch ResNet18 CNN to classify lottery ticket types (Powerball, Mega Millions, Lotto America, EuroMillions) and building an OCR pipeline using EasyOCR and OpenCV to extract numbers and draw dates from ticket photos, while integrating historical draw data via the Lottery Data API for win detection. Separately developed a companion iOS app in Swift replicating the core pipeline on-device using Apple's Vision framework, CoreML, and SwiftData.
 - __Fantasy English Premier League Algorithms (v1.0 and v2.0):__ Developed algorithms to manage Fantasy Premier League teams using live data, building Python scripts to collect player statistics and fixture ratings and designing logic to optimize player selection and gameweek formations.
 - __Calendar Application:__ Collaboratively developed a Java-based calendar application using the MVC architecture and various object-oriented design patterns _(code upon request)_.
 
